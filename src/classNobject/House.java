@@ -19,6 +19,9 @@ public class House {
   public House (String houseName ) {
 	  this.housename = houseName;
 	  System.out.println(houseName);  
+  }public House (String houseName ) {
+	  this.housename = houseName;
+	  System.out.println(houseName);  
   }
   
   public House (String houseName, int address ) {
